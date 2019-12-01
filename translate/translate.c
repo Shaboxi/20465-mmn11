@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* function to convert decimal to binary */
+/*
+function to convert decimal to binary 
+int decimal - get a number in a decimal base
+return - a void function, just prints the decimal number in binary base
+*/
 void translate_dec_hex(int decimal) 
 { 
          
